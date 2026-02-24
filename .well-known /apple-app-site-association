@@ -1,1 +1,10 @@
-
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "W8WRY5NHK7.com.joingroup.qrcode",
+        "paths": [ "/open*" ]
+      }
+    ]
+  }
+}
