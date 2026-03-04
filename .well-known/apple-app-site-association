@@ -1,9 +1,12 @@
 {
   "applinks": {
+    "apps": [],
     "details": [
       {
         "appID": "TQNDJ75Q2A.com.joingroup.qrcode",
-        "paths": [ "/open/*"]
+        "paths": [
+          "/open/*"
+        ]
       }
     ]
   }
